@@ -2,7 +2,7 @@
 
 ![La tarjeta](card.png).
 
-##Ejemplo Un Dialogo De Alerta
+## Ejemplo Un Dialogo De Alerta
 
 ![La tarjeta](dialogo.png).
 ![La tarjeta](dialogor.png).
