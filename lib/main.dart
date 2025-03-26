@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:herreracurso/mis_swidgets/mi_tarjeta.dart';
 
+import 'mis_swidgets/dialogo_acerca_de.dart';
+
 const Color darkBlue = Color(0xFF12202F);
 
 void main() => runApp(const MiTargeta()); // Corrected here
@@ -19,7 +21,8 @@ class MiTargeta extends StatelessWidget {
           title: const Text("Flutter Herrera"),
           centerTitle: true,
         ),
-        body: const LaTarjeta(),
+        //body: const LaTarjeta(),
+        body: const DialogoAcercaDe(),
       ),
     );
   }
