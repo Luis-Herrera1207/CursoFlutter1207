@@ -1,3 +1,3 @@
 ## Ejemplo card
 
-![La tarjeta](card.pnj)
+![La tarjeta](card.png).
