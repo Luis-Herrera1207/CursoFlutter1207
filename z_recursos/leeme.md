@@ -1,3 +1,3 @@
 ## Ejemplo card
 
-![La tarjeta](z_recursos/card.pnj)
+![La tarjeta](card.pnj)
